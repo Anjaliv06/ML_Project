@@ -1,4 +1,5 @@
-Menu Project
+Menu Project  
+
 Overview
 The Machine Learning Menu Project is a collection of Python scripts that demonstrate various functionalities commonly used in machine learning and automation applications. This project includes examples for controlling system volume, fetching search results, text-to-speech conversion, image processing, and communication via SMS and phone calls. The aim is to provide a practical toolkit for various tasks that can be integrated into larger systems or used independently for educational purposes.
 
